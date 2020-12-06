@@ -310,7 +310,7 @@ if v:version >= 703
 
 endif
 
-hi! link NonText SrceryXgray4
+hi! link NonText SrceryBlack
 hi! link SpecialKey SrceryBlue
 
 if g:srcery_inverse == 1
